@@ -20,8 +20,8 @@ The goal of this project is to:
 
 - Split the dataset into:
 
-- **Training: 80%**
-- **Testing: 20%**
+   - **Training: 80%**
+   - **Testing: 20%**
    
 - Apply **K-Means clustering (k=2)** to observe patterns between benign and malignant tumors
 
