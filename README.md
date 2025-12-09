@@ -1,1 +1,4 @@
-# breast_cancer_diagnosis_prediction_knn_k-means
+This project classifies breast cancer tumors into Malignant (M) or Benign (B) using K-Nearest Neighbors (KNN) and performs clustering using K-Means.
+
+Dataset used: Breast Cancer Dataset
+
