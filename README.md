@@ -13,8 +13,8 @@ The goal of this project is to:
 
 * Drop unnecessary columns:
 
-- id
-- Unnamed: 32
+  -  id
+  - Unnamed: 32
   
 - Apply **Min-Max Normalization**
 
