@@ -25,11 +25,11 @@ The goal of this project is to:
    
 - Apply **K-Means clustering (k=2)** to observe patterns between benign and malignant tumors
 
-- Train a KNN classifier with **k = 5**
+- Train a **KNN classifier** with **k = 5**
 
 - Evaluate the model using:
 
-- Accuracy
-- Precision
-- Recall
-- F1-score
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-score
