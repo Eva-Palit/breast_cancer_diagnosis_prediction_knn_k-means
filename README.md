@@ -16,7 +16,7 @@ The goal of this project is to:
 - id
 - Unnamed: 32
   
-  - ** Apply Min-Max Normalization**
+- Apply **Min-Max Normalization**
 
 - Split the dataset into:
 
