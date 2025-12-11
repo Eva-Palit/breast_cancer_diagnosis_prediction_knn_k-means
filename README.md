@@ -50,3 +50,28 @@ The goal of this project is to:
  - Used **KNeighborsClassifier(k=5)**
  - Trained on normalized training data
  - Evaluated predictions using standard classification metrics
+
+## **📊 Model Results**
+
+| Metric  |	   | Score  |
+|-------- |    |--------|
+|Accuracy |	   |~0.96   |
+|Precision|	   |~1.00   |
+|Recall 	|    |~0.90   |
+|F1-score |	   |~0.95   |
+
+## **📁 Files in This Repository**
+
+- 'notebook.ipynb' — Google Colab/Jupyter Notebook containing:
+
+- Data preprocessing
+- K-Means clustering
+- KNN classification
+- Model evaluation
+- 'README.md'  — Project summary and explanation
+
+## **▶️ How to Run**
+1.Open **Google Colab**
+2.Upload the dataset file
+3.Run all cells in 'notebook.ipynb'
+4. View model scores
