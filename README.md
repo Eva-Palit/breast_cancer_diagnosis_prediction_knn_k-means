@@ -53,8 +53,6 @@ The goal of this project is to:
 
 ## **📊 Model Results**
 
-## Model Results
-
 | Metric    | Score |
 |-----------|--------|
 | Accuracy  | ~0.96 |
