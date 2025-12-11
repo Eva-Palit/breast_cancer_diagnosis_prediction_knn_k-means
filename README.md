@@ -34,7 +34,7 @@ The goal of this project is to:
   - Recall
   - F1-score
 
-  ## **🧪Methods Used**
+## **🧪Methods Used**
 
 **1. Data Preprocessing**
  - Loaded the dataset
