@@ -33,3 +33,20 @@ The goal of this project is to:
   - Precision
   - Recall
   - F1-score
+
+  ## **🧪Methods Used**
+
+**1. Data Preprocessing**
+ - Loaded the dataset
+ - Encoded diagnosis labels (M = 1, B = 0)
+ - Dropped irrelevant columns
+ - Scaled all features using MinMaxScaler
+  
+**2. Clustering (K-Means)**
+ - Applied **k=2**
+ - Observed how the data groups into two clusters
+  
+**3. Classification (KNN)**
+ - Used **KNeighborsClassifier(k=5)**
+ - Trained on normalized training data
+ - Evaluated predictions using standard classification metrics
