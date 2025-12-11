@@ -64,6 +64,7 @@ The goal of this project is to:
 ## **📁 Files in This Repository**
 
 - `notebook.ipynb` — Google Colab/Jupyter Notebook containing:
+  
   - Data preprocessing
   - K-Means clustering
   - KNN classification
