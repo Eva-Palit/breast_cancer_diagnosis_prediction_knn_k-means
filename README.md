@@ -53,22 +53,23 @@ The goal of this project is to:
 
 ## **📊 Model Results**
 
-| Metric  |	   | Score  |
-|-------- |    |--------|
-|Accuracy |	   |~0.96   |
-|Precision|	   |~1.00   |
-|Recall 	|    |~0.90   |
-|F1-score |	   |~0.95   |
+## Model Results
+
+| Metric    | Score |
+|-----------|--------|
+| Accuracy  | ~0.96 |
+| Precision | ~1.00 |
+| Recall    | ~0.90 |
+| F1-score  | ~0.95 |
+
 
 ## **📁 Files in This Repository**
 
-- 'notebook.ipynb' — Google Colab/Jupyter Notebook containing:
-
-- Data preprocessing
-- K-Means clustering
-- KNN classification
-- Model evaluation
-- 'README.md'  — Project summary and explanation
+- `notebook.ipynb` — Google Colab/Jupyter Notebook containing:
+  - Data preprocessing
+  - K-Means clustering
+  - KNN classification
+  - Model evaluation
 
 ## **▶️ How to Run**
 1.Open **Google Colab**
